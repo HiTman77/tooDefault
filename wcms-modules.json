@@ -1,15 +1,13 @@
 {
     "version": 1,
     "themes": {
-        "theDefault": {
-            "name": "theDefault",
-            "repo": "https://github.com/HiTman77/theDefault/",
-            "zip": "https://github.com/HiTman77/theDefault/archive/refs/heads/main.zip",
-            "summary": "Variant of default theme.",
+        "tooDefault": {
+            "name": "tooDefault",
+            "repo": "https://github.com/HiTman77/tooDefault/",
+            "zip": "https://github.com/HiTman77/tooDefault/archive/refs/heads/main.zip",
+            "summary": "Variant of default theme adds a logo, css, favicon, optimised load.",
             "version": "1.0.1",
-            "image": "https://raw.githubusercontent.com/HiTman77/theDefault/main/preview.jpg"
+            "image": "https://raw.githubusercontent.com/HiTman77/tooDefault/main/preview.jpg"
         }
     }
 }
-
-
