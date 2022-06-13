@@ -3,7 +3,7 @@
 <html lang="en-US">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="title" content="<?= $Wcms->get('config', 'siteTitle') ?> - <?= $Wcms->page('title') ?>" />
+<meta name="title" content="<?= $Wcms->page('title') ?> - <?= $Wcms->get('config', 'siteTitle') ?>" />
 <meta name="description" content="<?= $Wcms->page('description') ?>">
 <meta name="keywords" content="<?= $Wcms->page('keywords') ?>">
 <meta property="og:url" content="<?= $this->url() ?>" />
