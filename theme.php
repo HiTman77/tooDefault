@@ -33,7 +33,7 @@
 </nav>
 <section class="container mt-5 mb-5 skewAfter">
 <div class="row">
-<div class="col-lg-12 my-auto text-center padding40">
+<div class="col-lg-12 my-auto text-left padding40">
 <h2 align="center"><?= $Wcms->page('keywords') ?></h2>
 <h3 align="center"><?= $Wcms->page('description') ?></h3>
 <?= $Wcms->page('content') ?>
@@ -42,7 +42,7 @@
 <div class="h-05"></div>
 <section class="container-fluid mt-5 mb-5 flex-grow">
 <div class="row customBackground">
-<div class="col-lg-12 my-auto text-center padding40 resetTextRotation"><?= $Wcms->block('subside') ?></div></div></section>
+<div class="col-lg-12 my-auto text-left padding40 resetTextRotation"><?= $Wcms->block('subside') ?></div></div></section>
 <footer class="mt-4 footer">
 <div class="container-fluid py-3 text-right"><?= $Wcms->footer() ?></div></footer>
 <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha384-vk5WoKIaW/vJyUAd9n/wmopsmNhiy+L2Z+SBxGYnUkunIxVxAv/UtMOhba/xskxh" crossorigin="anonymous"></script>
